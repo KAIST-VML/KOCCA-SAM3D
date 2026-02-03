@@ -1,0 +1,13 @@
+__pycache__
+
+*.pem
+*.ply
+*.glb
+*.stats
+*.log
+*.out
+*.pt
+
+output/
+VSA_dataset
+VSA_output*
