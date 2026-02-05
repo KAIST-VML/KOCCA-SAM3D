@@ -4,6 +4,8 @@
 > This repository is based on the original code at https://github.com/facebookresearch/sam-3d-objects and the paper https://ai.meta.com/research/publications/sam-3d-3dfy-anything-in-images/.
 >
 > The original README file has been renamed to [_README.md](_README.md).
+>
+> To check the commit history, see https://github.com/PARKCHEOLHEE-lab/sam-3d/commits/main/.
 
 <br>
 
