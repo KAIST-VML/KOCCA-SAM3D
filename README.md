@@ -5,7 +5,7 @@
 >
 > The original README file has been renamed to [_README.md](_README.md).
 >
-> To check the commit history, see https://github.com/PARKCHEOLHEE-lab/sam-3d/commits/main/.
+> To check the full commit history, see https://github.com/PARKCHEOLHEE-lab/sam-3d/commits/main/.
 
 <br>
 
