@@ -287,6 +287,10 @@ python main_inference.py \
 
 <br>
 
+Note that ... 
+
+<br>
+
 ## Processing `VSA_dataset`
 
 The `main_vsa_dataset.py` script automates the generation of 3D models for both individual objects and complete room scenes from a hierarchical dataset. Processing is skipped if the isometric room view `(*_IsoView1.png or *_Isoview1.png)` does not exist.
