@@ -285,9 +285,18 @@ python main_inference.py \
     --sam_threshold=0.27
 ```
 
-<br>
+<br><br>
 
-Note that ... 
+Note that the bounding boxes created using `trimesh.bounds.oriented_bounds` may have different local plane orientations with each execution.
+
+
+<div align="center" display="flex">
+    <img src="./media/a.png" width="40%"/>
+    <img src="./media/b.png" width="40%"/>
+    <br>
+    <i>From the left, <br> 
+    input image · scene without re-alignment · scene with re-alignment</i>
+</div>
 
 <br>
 
