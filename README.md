@@ -294,8 +294,7 @@ Note that the bounding boxes created using `trimesh.bounds.oriented_bounds` may 
     <img src="./media/a.png" width="40%"/>
     <img src="./media/b.png" width="40%"/>
     <br>
-    <i>From the left, <br> 
-    input image · scene without re-alignment · scene with re-alignment</i>
+    <i>Comparison of different local plane orientations</i>
 </div>
 
 <br>
